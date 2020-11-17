@@ -10,4 +10,4 @@
 - [SQL](http://albertoferrari.github.io/DB-SQL/Lezioni/DB-SQL-04-SQL.pdf)
 
 ### esempio ed esercizi
-- [esempi ed esercizi](https://github.com/albertoferrari/DB-SQL/tree/main/esercizi)
+- [esempi ed esercizi](https://github.com/albertoferrari/DB-SQL/tree/master/esercizi)
