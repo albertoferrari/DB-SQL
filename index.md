@@ -8,3 +8,6 @@
 - [Modello relazionale](http://albertoferrari.github.io/DB-SQL/Lezioni/DB-SQL-03-modello_relazionale.pdf)
 - [Basi di dati](http://albertoferrari.github.io/DB-SQL/Lezioni/DB-SQL-03-basi_di_dati.pdf)
 - [SQL](http://albertoferrari.github.io/DB-SQL/Lezioni/DB-SQL-04-SQL.pdf)
+
+### esempio ed esercizi
+- [esempi ed esercizi](https://github.com/albertoferrari/DB-SQL/tree/main/esercizi)
